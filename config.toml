@@ -63,21 +63,6 @@ googleAnalytics = ""
 
   customCSS = ["example.css"]
 
-  bible_popups = true
-
-  [params.podcast]
-    title = "Listen to Alpha Church"
-    subtitle = ""
-    summary = "Alpha-Church sermons, talks, messages—podcasted."
-    email = "test@example.com"
-    copyright = "Podcast: [CC0 (public domain)](//creativecommons.org/publicdomain/zero/1.0/)"
-    image = "img/podcast-cover.jpg"
-    category = "Religion & Spirituality"
-    sub_category = "Christianity"
-    num_episodes = "10"
-    iTunes = "https://itunes.apple.com/us/podcast/tgc-word-of-the-week/id1034013280"
-    feed = "https://www.thegospelcoalition.org/podcasts/word-of-the-week/feed/?feed=podcast"
-
   [params.map]
     # For Open Street Map widgets
     latitude = "39.31136"
@@ -117,6 +102,8 @@ googleAnalytics = ""
       text = "We meet 6:30 PM every Thursday at [10 E North Ave Baltimore, MD 21202](http://baltimore.impacthub.net/)."
       map_location = "Impact Hub"
 
+    [params.landing.feature_heading]
+      title = "We operate four different nights on a rotating schedule:"
     [params.landing.feature_icons]
       #These feature icons look best if there's an even number of them.
       enable = true
