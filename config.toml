@@ -59,9 +59,9 @@ googleAnalytics = ""
 [params]
   title = "Baltimore Black Techies"
   subtitle = "Building Tech and Community in Baltimore City"
-  author = "Alex Bradley"
+  author = "Baltimore Black Techies"
 
-  customCSS = ["example.css"]
+  customCSS = ["custom.css"]
 
   [params.map]
     # For Open Street Map widgets
@@ -99,7 +99,7 @@ googleAnalytics = ""
     #Details for the box below the banner
     [params.landing.services]
       title = "Building Tech and Community in Baltimore City"
-      text = "We meet 6:30 PM every Thursday at [10 E North Ave Baltimore, MD 21202](http://baltimore.impacthub.net/)."
+      text = "We meet 6:30 PM every Thursday at The Impact Hub [10 E North Ave Baltimore, MD 21202](http://baltimore.impacthub.net/)."
       map_location = "Impact Hub"
 
     [params.landing.feature_heading]
@@ -143,17 +143,17 @@ googleAnalytics = ""
 
       [[params.landing.feature_images.tile]]
         image = "img/freely-10057.jpg"
-        title = "Childrens' Ministry"
-        text = "A church for the family."
-        url = "/kids"
+        title = "Black Techies"
+        text = ""
+        url = ""
         button_text = "Learn more"
 
       [[params.landing.feature_images.tile]]
         image = "img/freely-26905.jpg"
-        title = "Midweek Ministries"
-        text = "Want more during the week?"
+        title = "Slack Channel"
+        text = "Do you want to join our slack channel?"
         url = "#"
-        button_text="Join a group today!"
+        button_text="Join our Slack"
 
     [params.landing.CTA]
       heading = "Get in touch!"
