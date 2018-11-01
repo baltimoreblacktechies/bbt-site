@@ -3,6 +3,7 @@
 We are using [hugo](https://gohugo.io) as our static site generator.
 
 ## Installation
+* Clone the repository recursively `git clone --recursive https://github.com/baltimoreblacktechies/bbt-site.git`
 * Install [hugo](https://gohugo.io):
   - `brew install hugo` if you are using a mac otherwise follow these [guides](https://gohugo.io/getting-started/installing)
 
