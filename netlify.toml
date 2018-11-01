@@ -1,2 +1,3 @@
 [build]
-command = "hugo -b $DEPLOY_URL"
+publish = public
+command = "hugo -b $URL"
