@@ -1,4 +1,4 @@
-baseURL = "https://baltimoreblacktechies.org/"
+baseURL = "http://localhost/"
 languageCode = "en-us"
 title = "Baltimore Black Techies"
 theme = ['alpha-church']
