@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "/"
 languageCode = "en-us"
 title = "Baltimore Black Techies"
 theme = ['alpha-church']
